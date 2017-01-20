@@ -78,6 +78,8 @@ public class Main {
 			System.out.println(adherent.getNom());
 		}
 		System.out.println("******************************************\n");
+		
+		System.out.println("--Fin de traitement--");
 
 	}
 
